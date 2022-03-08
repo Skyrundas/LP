@@ -1,0 +1,28 @@
+C'est quoi une particule uide ? Ordres de grandeur d'une particule de fluide ? gaz : 1mm3. Liquide : 1m3. A quelles longueurs caracteristiques on compare ca ? libre parcours moyen et longueur caracteristique de l'ecoulement.
+Quelles sont les deux composantes de la derivee particulaire ? La temporelle est locale, et l'autre c'est l'acceleration convective.
+Champ eulerien, champ lagrangien ?
+Ecoulement incompressible, qu'est ce que ca implique sur ? Difference entre fluide incompressible et uide incompressible ?
+Comment tu definirais la trajectoire ? Quelle difference avec une ldc ?
+
+
+Pedagogie
+pourquoi Toricelli en manip quantitative? 1Ere manpi vue au lycée donc on se raccroche à ça pour rappeler des choses aux élèves.
+Bcp de prérequis, avec les nouveaux programmes pas autant de physique, comment présenter Euler à des élèves comme ça? Peut-être faire équivalence conservation énergie avecénergie volumique
+
+Ecoulement ou fluide incompressible dans Euler? 
+ecoulement incompressible div v zero
+fluide incompressible derivee particulaire rho zero
+
+Fluide homogène? Tous les paramètres intensifs dans le fluide homogènes
+Incertitude plus grande que le nombre? Normal? Sur la courbe , abscisse à l'origine, alors que dans le modèle non. Quoi faire? Ici bcp de sources d'incertitudes donc cela joue sur les mesures et donc sur le graphe à la fin. Surpressions capillaires aussi. 
+Imposer cette ordonnée à l'origine à zéro? Ça change peu. 
+Choix de h?  REVENIR DESSUS
+Venturi à développer? 
+Particule fluide, odg? Micrometre cube
+Théorème Bernoullin, tu l'as démontré avec équivalence énergie. Autre méthode? Théorème énergie cinétique. Comment faire apparaître travail pressions? Energie interne avec premier principe.
+Viscosité? Qu'est ce que c'est? 
+Mise en forme tableau, rappel mécanique, tuyau arrosage poour Bernoulli appuyer sur le bout, pars plus vite et plus loin.
+Exemples effet venturi? Sonde pitot, vent en haut des montagnes, rue très haute et assez étroite direction vent privilégiée
+
+Manque schéma.
+Rajouter tube capillaire en sortie de toricelli pour avoir une vitesse stationnaire
